@@ -8,7 +8,7 @@ A free, open-access AI and machine learning curriculum for students ages 9–12.
 
 11 interactive lessons (~40 minutes each) covering how AI recognizes images, understands language, makes recommendations, creates content, and can go wrong. Built for teachers, librarians, and community center coordinators — no CS background required. All tools are free and browser-based.
 
-Created by Suman, a high school student in Houston, TX, who teaches coding and AI at Houston Dragon Academy and iCode.
+Created by Derek, a high school student in Houston, TX, who teaches coding and AI.
 
 ## Lessons
 
