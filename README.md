@@ -2,7 +2,7 @@
 
 A free, open-access AI and machine learning curriculum for students ages 9–12.
 
-**Live site:** [Deploy via GitHub Pages — see below]
+**Live site:** https://derekjiu.github.io/AI-Curriculum/
 
 ## About
 
@@ -27,13 +27,6 @@ Created by Derek, a high school student in Houston, TX, who teaches coding and A
 | 11 | Your AI Project — Showcase Day! | ML4Kids, Scratch 3 |
 
 Slide decks available on Google Drive (links on the site).
-
-## Deploying on GitHub Pages
-
-1. Go to **Settings → Pages**
-2. Under Source, select **Deploy from a branch**
-3. Choose `main` and `/ (root)`, then click Save
-4. Your site will be live at `https://DerekJiu.github.io/AI-Curriculum/`
 
 ## License
 
