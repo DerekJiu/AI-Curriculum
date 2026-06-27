@@ -8,17 +8,17 @@ const DRIVE_IDS = {
   lesson1:  "137bYXmQgqZiPHsOTXMRpUXD6HRKQHn8V",              // Lesson 1 - How Computers Learn.pptx
   lesson2:  "1bVN7wsc7w8SbQk7hRumJEKTe-4o5NsEd",              // Lesson 2 - How Does AI See.pptx
   lesson3:  "151wo6MoVYE5kPBKje-UF6ra1MNYNoNYT",              // Lesson 3 - AI Meets Scratch.pptx
-  lesson4:  "PASTE_YOUR_FILE_ID_HERE",              // Lesson 4 - Smart Sorting (Decision Trees).pptx
+  lesson4:  "1aKGpmAVC_pT0aM6glSY2KAlAPqohRXmi",              // Lesson 4 - Smart Sorting (Decision Trees).pptx
   lesson5:  "10cHFohPv-wtYoFXMzkAQUpQTGRB530y2",              // Lesson 5 - Words Have Power.pptx
   lesson6:  "1ZO6siNKQpYRxk0NlRdvr48CqTPGeeSHC",              // Lesson 6 - Training Like a Pro.pptx
   lesson7:  "1j5j28z2g-Rlu0vz62a50FZSDOfF7IFE4",              // Lesson 7 - AI That Recommends.pptx
   lesson8:  "1m7zBNrKvf1pt08MGOe6ZTlcgfD9TZOlI",              // Lesson 8 - AI That Creates.pptx
   lesson9:  "1OYCSGsUmziqW7YeLY8GIt56uwI8dLRtC",              // Lesson 9 - When AI Gets It Wrong.pptx
   lesson10: "1n4Yp1jeGBwyirGyZJmOf_NJdcrLvXjEy",              // Lesson 10 - Build a Chatbot.pptx
-  lesson11: "PASTE_YOUR_FILE_ID_HERE",              // Lesson 11 - Showcase Day.pptx
+  lesson11: "1CaG9qcXMTkK58W9ZJFc3cil73ykHd323",              // Lesson 11 - Showcase Day.pptx
   facilitatorGuide: "PASTE_YOUR_FILE_ID_HERE",      // Facilitator_Guide.pdf (if you have one)
 };
-// ===== END CONFIG — no need to edit anything below this line =====
+// ===== END CONFIG =====
 
 function driveDownloadUrl(id) {
   if (!id || id === "PASTE_YOUR_FILE_ID_HERE") return null;
