@@ -74,9 +74,9 @@ var LESSONS = [
   {
     num: 4,
     title: "Smart Sorting — Decision Trees",
-    desc: "Starting with a class game of 20 Questions, students learn how AI makes decisions by asking yes/no questions, then build an animal classifier.",
-    concepts: ["Decision trees", "Feature selection", "Classification"],
-    tools: ["ML4Kids", "Scratch 3"],
+    desc: "Starting with a class game of 20 Questions, students learn how AI makes decisions by asking yes/no questions, then build a "Guess My Animal" decision tree game in Scratch.",
+    concepts: ["Decision trees", "Feature selection", "Nested if/else logic"],
+    tools: ["Scratch 3"],
     duration: "~40 min",
     key: "lesson4",
   },
